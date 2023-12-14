@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{DB4214B0-3BD5-49D4-9562-119201513B3E}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Library.FindingAid.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library.FindingAid.API/Repository/LibraryRepository.cs">
+    <Files>
+      <File FileName="Library.FindingAid.API/ViewModel/ChildBase.cs" />
+      <File FileName="Library.FindingAid.API/ViewModel/ReturnModel/FilterResponse.cs" />
+      <File FileName="Library.FindingAid.API/Repository/LibraryRepository.cs" Line="44" Column="18" />
+      <File FileName="Library.FindingAid.API/Repository/ILibraryRepository.cs" />
+      <File FileName="Library.FindingAid.API/Controllers/BoxController.cs" />
+      <File FileName="Library.FindingAid.API/DataAccess/ApplicationDbContext.cs" />
+      <File FileName="Library.FindingAid.API/Models/Box.cs" />
+      <File FileName="Library.FindingAid.API/Program.cs" Line="49" Column="1" />
+      <File FileName="Library.FindingAid.API/Controllers/LibraryController.cs" />
+      <File FileName="Library.FindingAid.API/Controllers/ItemController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Library.FindingAid" expanded="True">
+            <Node name="Library.FindingAid.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DataAccess" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="LibraryRepository.cs" selected="True" />
+              </Node>
+              <Node name="ViewModel" expanded="True">
+                <Node name="ReturnModel" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

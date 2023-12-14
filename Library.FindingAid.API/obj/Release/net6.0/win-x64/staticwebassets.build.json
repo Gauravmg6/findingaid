@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c3s1KrcHaDHE50Dy34aJoHWqzgLXkksE67WU6FF5WUQ=",
+  "Source": "Library.FindingAid.API",
+  "BasePath": "_content/Library.FindingAid.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

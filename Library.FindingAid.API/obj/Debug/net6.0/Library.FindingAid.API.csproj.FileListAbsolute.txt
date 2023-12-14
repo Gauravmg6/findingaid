@@ -1,0 +1,276 @@
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/appsettings.json
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Library.FindingAid.API.exe
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Library.FindingAid.API.deps.json
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Library.FindingAid.API.runtimeconfig.json
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Library.FindingAid.API.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Library.FindingAid.API.pdb
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Humanizer.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/MySqlConnector.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.csproj.AssemblyReference.cache
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.AssemblyInfoInputs.cache
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.AssemblyInfo.cs
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.csproj.CoreCompileInputs.cache
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/staticwebassets/msbuild.Library.FindingAid.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/staticwebassets/msbuild.build.Library.FindingAid.API.props
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Library.FindingAid.API.props
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Library.FindingAid.API.props
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/scopedcss/bundle/Library.FindingAid.API.styles.css
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.csproj.CopyComplete
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/refint/Library.FindingAid.API.dll
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.pdb
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.genruntimeconfig.cache
+C:/Users/settgm01/Desktop/GAURAV/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/ref/Library.FindingAid.API.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/appsettings.Development.json
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/appsettings.json
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Library.FindingAid.API
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Library.FindingAid.API.deps.json
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Library.FindingAid.API.runtimeconfig.json
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Library.FindingAid.API.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Library.FindingAid.API.pdb
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Humanizer.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/MySqlConnector.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.csproj.AssemblyReference.cache
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.AssemblyInfoInputs.cache
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.AssemblyInfo.cs
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.csproj.CoreCompileInputs.cache
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/staticwebassets/msbuild.Library.FindingAid.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/staticwebassets/msbuild.build.Library.FindingAid.API.props
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Library.FindingAid.API.props
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Library.FindingAid.API.props
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/scopedcss/bundle/Library.FindingAid.API.styles.css
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.csproj.CopyComplete
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/refint/Library.FindingAid.API.dll
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.pdb
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/Library.FindingAid.API.genruntimeconfig.cache
+/Users/samirasimha/Documents/Projects/Library/findingaid/Library.FindingAid/Library.FindingAid.API/obj/Debug/net6.0/ref/Library.FindingAid.API.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\appsettings.json
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Library.FindingAid.API.exe
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Library.FindingAid.API.deps.json
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Library.FindingAid.API.runtimeconfig.json
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Library.FindingAid.API.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Library.FindingAid.API.pdb
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.csproj.AssemblyReference.cache
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.AssemblyInfoInputs.cache
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.AssemblyInfo.cs
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.csproj.CoreCompileInputs.cache
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\staticwebassets\msbuild.Library.FindingAid.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Library.FindingAid.API.props
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library.FindingAid.API.props
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library.FindingAid.API.props
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\scopedcss\bundle\Library.FindingAid.API.styles.css
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.csproj.CopyComplete
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\refint\Library.FindingAid.API.dll
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.pdb
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.genruntimeconfig.cache
+C:\Users\GAURAV\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\ref\Library.FindingAid.API.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\appsettings.json
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Library.FindingAid.API.exe
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Library.FindingAid.API.deps.json
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Library.FindingAid.API.runtimeconfig.json
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Library.FindingAid.API.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Library.FindingAid.API.pdb
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.csproj.AssemblyReference.cache
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.AssemblyInfoInputs.cache
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.AssemblyInfo.cs
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.csproj.CoreCompileInputs.cache
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\staticwebassets\msbuild.Library.FindingAid.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Library.FindingAid.API.props
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Library.FindingAid.API.props
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Library.FindingAid.API.props
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\scopedcss\bundle\Library.FindingAid.API.styles.css
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.csproj.CopyComplete
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\refint\Library.FindingAid.API.dll
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.pdb
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\Library.FindingAid.API.genruntimeconfig.cache
+C:\Users\settgm01\Desktop\New folder (2)\findingaid\Library.FindingAid\Library.FindingAid.API\obj\Debug\net6.0\ref\Library.FindingAid.API.dll
