@@ -16,12 +16,12 @@ namespace Library.FindingAid.API.Controllers
     public class LibraryController : Controller
     {
         private readonly ILibraryRepository libraryRepository;
-        private readonly IMockDataCreation mockDataCreation;
+        //private readonly IMockDataCreation mockDataCreation;
            
 
-        public LibraryController(ILibraryRepository libraryRepository, IMockDataCreation mockDataCreation)
+        public LibraryController(ILibraryRepository libraryRepository)
         {
-            this.mockDataCreation = mockDataCreation;
+            //this.mockDataCreation = mockDataCreation;
             this.libraryRepository = libraryRepository;
         }
 
@@ -40,15 +40,15 @@ namespace Library.FindingAid.API.Controllers
             return Ok(libraryRepository.GetItems(param));
         }
 
-        [HttpGet("GenerateData")]
-        public async Task<IActionResult> GenerateData()
-        {
+        //[HttpGet("GenerateData")]
+        //public async Task<IActionResult> GenerateData()
+        //{
 
-            await mockDataCreation.GenerateMockData();
+        //    await mockDataCreation.GenerateMockData();
 
-            return Ok();
+        //    return Ok();
 
-        }
+        //}
     }
 }
 

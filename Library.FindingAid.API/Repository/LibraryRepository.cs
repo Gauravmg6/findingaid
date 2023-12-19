@@ -4,7 +4,7 @@ using Library.FindingAid.API.ViewModel;
 using Library.FindingAid.API.ViewModel.ReturnModel;
 using Microsoft.EntityFrameworkCore;
 using Library.FindingAid.API.Models;
-using Library.FindingAid.API.Utils;
+
 using static Library.FindingAid.API.Repository.LibraryRepository;
 using System.Text;
 using Microsoft.AspNetCore.Mvc;
@@ -56,20 +56,20 @@ namespace Library.FindingAid.API.Repository
                 {
                     #region removing uncheked Boxes and Folder
 
-                    List<int> uncheckedCollections = data
+                    List<string> uncheckedCollections = data
                     .Collections
                     .Where(q => !q.isChecked)
                     .Select(w => w.Id)
                     .ToList();
 
 
-                    List<int> boxesToRemove = data.Boxes.Where(a =>
+                    List<string> boxesToRemove = data.Boxes.Where(a =>
                     uncheckedCollections.Contains(a.ParentId))
                             .SelectMany(a => a.Content.Select(q => q.Id))
                             .ToList();
 
 
-                    List<int> uncheckedBoxes = new();
+                    List<string> uncheckedBoxes = new();
                     data
                     .Boxes
                     .ForEach(a =>
@@ -131,7 +131,7 @@ namespace Library.FindingAid.API.Repository
 
                     #region Build the Folders
 
-                    List<int> checkedBoxIds = new();
+                   
 
 
 
@@ -147,7 +147,7 @@ namespace Library.FindingAid.API.Repository
                             .ForEach(a =>
                             {
 
-                                List<int> boxIds = a.Content
+                                List<string> boxIds = a.Content
                                                           .Where(a => a.isChecked)
                                                           .Select(a => a.Id)
                                                           .ToList();
@@ -268,7 +268,7 @@ namespace Library.FindingAid.API.Repository
 
                 List<Item> items = itemQuerable.ToList();
 
-                ILookup<int, Collection> collections = dbContext.Collection
+                ILookup<string, Collection> collections = dbContext.Collection
                     .Where(a => items.Select(a => a.AccessionNumber).Distinct().ToList().Contains(a.AccessionNumber))
                     .ToLookup(a => a.AccessionNumber);
 
@@ -290,7 +290,7 @@ namespace Library.FindingAid.API.Repository
         }
 
 
-        public async Task<Item> GetItemByAccessionBoxAndItemNumbers(int accessionNumber, int folderNumber, int boxNumber, int itemNumber)
+        public async Task<Item> GetItemByAccessionBoxAndItemNumbers(string accessionNumber, string folderNumber, string boxNumber, int itemNumber)
         {
             return await dbContext.Item.FirstOrDefaultAsync(s =>
                 s.AccessionNumber == accessionNumber &&
@@ -299,7 +299,7 @@ namespace Library.FindingAid.API.Repository
                 s.ItemNumber == itemNumber);
         }
 
-        public async Task<string> DeleteItemAsync(int accessionNumber, int folderNumber, int boxNumber, int itemNumber)
+        public async Task<string> DeleteItemAsync(string accessionNumber, string folderNumber, string boxNumber, int itemNumber)
         {
             try
             {

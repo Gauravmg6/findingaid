@@ -1,7 +1,7 @@
 ﻿using Library.FindingAid.API.DataAccess;
 using Library.FindingAid.API.Models;
 using Library.FindingAid.API.Repository;
-using Library.FindingAid.API.Utils;
+
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -55,7 +55,7 @@ namespace Library.FindingAid.API.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<IActionResult> GetByIDAsync(int id)
+        public async Task<IActionResult> GetByIDAsync(string id)
         {
             try
             {
@@ -103,7 +103,7 @@ namespace Library.FindingAid.API.Controllers
 
 
         [HttpPost("{AccessionNumber}/{BoxNumber}/{FolderNumber}/{ItemNumber}")]
-        public async Task<IActionResult> UpdateAsync([FromRoute] int AccessionNumber, [FromRoute] int BoxNumber, [FromRoute] int FolderNumber, [FromRoute] int ItemNumber, [FromBody] CreateAsync request)
+        public async Task<IActionResult> UpdateAsync([FromRoute] string AccessionNumber, [FromRoute] string BoxNumber, [FromRoute] string FolderNumber, [FromRoute] int ItemNumber, [FromBody] CreateAsync request)
         {
             try
             {
@@ -144,32 +144,32 @@ namespace Library.FindingAid.API.Controllers
         }
 
 
-        [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteAsync(int id)
-        {
-            try
-            {
-                var item = await dbContext.Collection.FirstAsync(s => s.AccessionNumber == id);
-                item.IsDeleted = true;
-                var response = dbContext.Collection.Update(item);
-                await dbContext.SaveChanges();
+        //[HttpDelete("{id}")]
+        //public async Task<IActionResult> DeleteAsync(string id)
+        //{
+        //    try
+        //    {
+        //        var item = await dbContext.Collection.FirstAsync(s => s.AccessionNumber == id);
+        //        item.IsDeleted = true;
+        //        var response = dbContext.Collection.Update(item);
+        //        await dbContext.SaveChanges();
 
-                await RecordHelper.DeleteRecordAsync(dbContext, item);
+        //        await RecordHelper.DeleteRecordAsync(dbContext, item);
 
-                if (response == null)
-                {
-                    return BadRequest();
-                }
-                else
-                {
-                    return Ok();
-                }
-            }
-            catch (Exception ex)
-            {
-                _logger.LogError(ex, $"an error has occured {ex.Message}");
-                throw;
-            }
-        }
+        //        if (response == null)
+        //        {
+        //            return BadRequest();
+        //        }
+        //        else
+        //        {
+        //            return Ok();
+        //        }
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        _logger.LogError(ex, $"an error has occured {ex.Message}");
+        //        throw;
+        //    }
+        //}
     }
 }

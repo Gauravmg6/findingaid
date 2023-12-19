@@ -5,7 +5,7 @@ namespace Library.FindingAid.API.Models
     public class CreateAsync
     {
         [Key]
-        public int AccessionNumber { get; set; }
+        public string AccessionNumber { get; set; }
 
         [Required]
         [MaxLength(255)]
@@ -15,10 +15,10 @@ namespace Library.FindingAid.API.Models
         public string? ShelvingLocation { get; set; }
 
         [Required]
-        public int BoxNumber { get; set; }
+        public string BoxNumber { get; set; }
 
         [Required]
-        public int FolderNumber { get; set; }
+        public string FolderNumber { get; set; }
 
         [Required]
         public int ItemNumber { get; set; }

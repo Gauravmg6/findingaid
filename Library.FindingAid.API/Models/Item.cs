@@ -16,15 +16,15 @@ namespace Library.FindingAid.API.Models
 
 
         [ForeignKey("Folder")]
-        public int FolderNumber { get; set; }
+        public string FolderNumber { get; set; }
 
 
         [ForeignKey("Box")]
-        public int BoxNumber { get; set; }
+        public string BoxNumber { get; set; }
 
 
         [ForeignKey("Collection")]
-        public int AccessionNumber { get; set; }
+        public string AccessionNumber { get; set; }
 
         [NotMapped]
         public string? ShelvingLocation { get; set; }

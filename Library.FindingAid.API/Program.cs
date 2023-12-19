@@ -25,7 +25,7 @@ builder.Services.AddCors(options =>
 #region Dependency Registrstion
 
 builder.Services.AddTransient<ILibraryRepository, LibraryRepository>();
-builder.Services.AddTransient<IMockDataCreation, MockDataCreation>();
+//builder.Services.AddTransient<IMockDataCreation, MockDataCreation>();
 
 #endregion
 

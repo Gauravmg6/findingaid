@@ -9,8 +9,8 @@ namespace Library.FindingAid.API.Repository
     {
         FilterResponse ReFormatFilterModel(FilterResponse? data = null);
         List<Item> GetItems(FilterParams? filter = null);
-        Task<Item> GetItemByAccessionBoxAndItemNumbers(int accessionNumber, int folderNumber, int boxNumber, int itemNumber);
-        Task<string> DeleteItemAsync(int accessionNumber, int folderNumber, int boxNumber, int itemNumber);
+        Task<Item> GetItemByAccessionBoxAndItemNumbers(string accessionNumber, string folderNumber, string boxNumber, int itemNumber);
+        Task<string> DeleteItemAsync(string accessionNumber, string folderNumber, string boxNumber, int itemNumber);
 
         Task<string> CreateItem(CreateAsync request);
     }

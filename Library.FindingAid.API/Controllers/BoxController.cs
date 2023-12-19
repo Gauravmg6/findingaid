@@ -1,6 +1,6 @@
 ﻿using Library.FindingAid.API.DataAccess;
 using Library.FindingAid.API.Models;
-using Library.FindingAid.API.Utils;
+
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -29,7 +29,7 @@ namespace Library.FindingAid.API.Controllers
         #endregion
 
         [HttpGet]
-        public async Task<IActionResult> GetAllAsync(int AccessionNumber)
+        public async Task<IActionResult> GetAllAsync(string AccessionNumber)
         {
             try
             {
@@ -52,7 +52,7 @@ namespace Library.FindingAid.API.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<IActionResult> GetByIDAsync(int id)
+        public async Task<IActionResult> GetByIDAsync(string id)
         {
             try
             {
@@ -84,7 +84,7 @@ namespace Library.FindingAid.API.Controllers
                 var response = await dbContext.Box.AddAsync(Box);
                 await dbContext.SaveChanges();
 
-                await RecordHelper.SaveRecordAsync(dbContext, Box);
+                //await RecordHelper.SaveRecordAsync(dbContext, Box);
 
                 if (response == null)
                 {
@@ -112,7 +112,7 @@ namespace Library.FindingAid.API.Controllers
                 var response = dbContext.Box.Update(Box);
                 await dbContext.SaveChanges();
 
-                await RecordHelper.UpdateRecordAsync(dbContext, Box);
+                //await RecordHelper.UpdateRecordAsync(dbContext, Box);
 
                 if (response == null)
                 {
@@ -131,7 +131,7 @@ namespace Library.FindingAid.API.Controllers
         }
 
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteAsync(int id)
+        public async Task<IActionResult> DeleteAsync(string id)
         {
             try
             {
@@ -140,7 +140,7 @@ namespace Library.FindingAid.API.Controllers
                 var response = dbContext.Box.Update(item);
                 await dbContext.SaveChanges();
 
-                await RecordHelper.DeleteRecordAsync(dbContext, item);
+                //await RecordHelper.DeleteRecordAsync(dbContext, item);
 
                 if (response == null)
                 {

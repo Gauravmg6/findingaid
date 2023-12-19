@@ -1,7 +1,7 @@
 ﻿using Library.FindingAid.API.DataAccess;
 using Library.FindingAid.API.Models;
 using Library.FindingAid.API.Repository;
-using Library.FindingAid.API.Utils;
+
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -32,7 +32,7 @@ namespace Library.FindingAid.API.Controllers
         #endregion
 
         [HttpGet]
-        public async Task<IActionResult> GetAllAsync(int folderId)
+        public async Task<IActionResult> GetAllAsync(string folderId)
         {
             try
             {
@@ -102,34 +102,34 @@ namespace Library.FindingAid.API.Controllers
             }
         }
 
-        [HttpPost]
-        public async Task<IActionResult> UpdateAsync(Item item)
-        {
-            try
-            {
-                item.IsDeleted = false;
-                item.LastUpdatedDate = DateTime.Now;
-                var response = dbContext.Item.Update(item);
-                await dbContext.SaveChanges();
+        //[HttpPost]
+        //public async Task<IActionResult> UpdateAsync(Item item)
+        //{
+        //    try
+        //    {
+        //        item.IsDeleted = false;
+        //        item.LastUpdatedDate = DateTime.Now;
+        //        var response = dbContext.Item.Update(item);
+        //        await dbContext.SaveChanges();
 
-                if (response == null)
-                {
-                    return BadRequest();
-                }
-                else
-                {
-                    return Ok(item);
-                }
-            }
-            catch (Exception ex)
-            {
-                _logger.LogError(ex, $"an error has occured {ex.Message}");
-                throw;
-            }
-        }
+        //        if (response == null)
+        //        {
+        //            return BadRequest();
+        //        }
+        //        else
+        //        {
+        //            return Ok(item);
+        //        }
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        _logger.LogError(ex, $"an error has occured {ex.Message}");
+        //        throw;
+        //    }
+        //}
 
         [HttpGet("{accessionNumber}/{boxNumber}/{folderNumber}/{itemNumber}")]
-        public async Task<IActionResult> DeleteAsync(int accessionNumber, int boxNumber, int folderNumber, int itemNumber)
+        public async Task<IActionResult> DeleteAsync(string accessionNumber, string folderNumber, string boxNumber, int itemNumber)
         {
             try
             {

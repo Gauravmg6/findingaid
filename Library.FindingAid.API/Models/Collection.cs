@@ -4,7 +4,7 @@ namespace Library.FindingAid.API.Models
 {
     public class Collection : Base
     {
-        public int AccessionNumber { get; set; }
+        public string AccessionNumber { get; set; }
 
         [Required]
         [MaxLength(255)]
